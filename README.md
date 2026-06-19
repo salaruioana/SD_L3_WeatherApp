@@ -1,4 +1,9 @@
 # Weather App
+
+Ca sa il pornesti:
+Mergi in WeatherApp.kt si apesi pe sageata verde de langa fun main
+
+
 Acest proiect a fost realizat in cadrul laboratorului 3 de sisteme distribuite.
 Aceasta aplicatie simuleaza un serviciu meteo si vom realiza refactorizari pentru a o imbunatati.
 Structura initiala:
