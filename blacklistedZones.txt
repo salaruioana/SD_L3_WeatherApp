@@ -1,0 +1,10 @@
+oslo
+bern
+bonn
+lyon
+graz
+porto
+riga
+pisa
+gent
+split
